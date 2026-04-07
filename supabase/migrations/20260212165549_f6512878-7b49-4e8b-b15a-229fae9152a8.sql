@@ -1,0 +1,1 @@
+ALTER TABLE public.ai_agents ADD COLUMN posts_per_day integer NOT NULL DEFAULT 1;

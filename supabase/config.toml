@@ -1,0 +1,28 @@
+project_id = "rsrbegyiydyirihbblnw"
+
+[functions.analyze-website]
+verify_jwt = false
+
+[functions.generate-content]
+verify_jwt = false
+
+[functions.generate-image]
+verify_jwt = false
+
+[functions.oauth-callback]
+verify_jwt = false
+
+[functions.post-scheduler]
+verify_jwt = false
+
+[functions.fetch-analytics]
+verify_jwt = false
+
+[functions.fetch-engagement]
+verify_jwt = false
+
+[functions.comment-responder]
+verify_jwt = false
+
+[functions.flutterwave-payment]
+verify_jwt = false
